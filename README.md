@@ -10,7 +10,7 @@ tags:
 
 This example starts a basic [Kotlin Spring Boot](https://spring.io/projects/spring-boot) web server.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fkotlin-spring)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/w502ro)
 
 ## ✨ Features
 
