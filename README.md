@@ -6,11 +6,11 @@ tags:
   - kotlin
 ---
 
-# Ktor Example
+# Spring Boot Example
 
 This example starts a basic [Kotlin Spring Boot](https://spring.io/projects/spring-boot) web server.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/w502ro)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/4d79dj?referralCode=FlDzq7)
 
 ## ✨ Features
 
